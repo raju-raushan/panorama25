@@ -1610,6 +1610,7 @@ footer{
 
 .menu .item .submenu {
   display: flex;
+  background-color: #529ff7;
   flex-direction: column;
   align-items: center;
   position: absolute;
